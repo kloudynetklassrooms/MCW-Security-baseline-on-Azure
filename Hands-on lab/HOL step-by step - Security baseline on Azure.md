@@ -258,13 +258,13 @@ Synopsis: In this exercise, attendees will utilize Azure SQL features to data ma
 
     ![In SQL Management Studio, Open is selected in the File menu, and File is selected in the shortcut menu.](images/Hands-onlabstep-bystep-Azuresecurityprivacyandcomplianceimages/media/image27.png "Open a file")
 
-21. Browse to the extracted GitHub folder, select the **\\Hands-on lab\\Database\\00\_CreateLogin.ps1** file.
+21. Browse to the extracted GitHub folder, select the **\\Hands-on lab\\Database\\00\_CreateLogin.sql** file.
 
 22. Ensure that the **master** database is selected.
 
 23. Run the script to create a login called **agent**.
 
-24. Browse to the extracted folder, select the **\\Hands-on lab\\Database\\01\_CreateUser.ps1** file.
+24. Browse to the extracted folder, select the **\\Hands-on lab\\Database\\01\_CreateUser.sql** file.
 
 25. Ensure that the **Insurance** database is selected.
 
@@ -562,7 +562,7 @@ Synopsis: In this exercise, attendees will learn how to migrate web application 
 
 ### Task 5: Test the solution
 
-1.  Open the **web.config**, and comment out or delete the **connectionString** from the file at line 78.
+1.  Open the **web.config**, and comment out or delete the **connectionString** from the file.
 
 2.  Open the **global.asax.cs** file, and place a break point at line 28.
 
