@@ -490,7 +490,7 @@ Synopsis: In this exercise, attendees will learn how to migrate web application 
 
     ![AzureKeyVaultTest is entered in the Name box, and http://localhost:12345 is entered in the Sign-on URL box under Create.](images/Hands-onlabstep-bystep-Azuresecurityprivacyandcomplianceimages/media/image49.png "Create a new application registration")
 
-5.  Select **Create**.
+5.  Select **Register**.
 
 6.  Select the new **AzureKeyVaultTest** application.
 
